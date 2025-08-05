@@ -53,8 +53,9 @@ This project is a serverless web application for saving and viewing student data
 
 
 ## Architectural Diagram :
+```
 ![Architectural Diagram](Serverless Web App Architecture Diagram.png)
-
+```
 ## License
 
 MIT License
