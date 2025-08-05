@@ -51,6 +51,9 @@ This project is a serverless web application for saving and viewing student data
 - Enter student details and click **Save Student Data**.
 - Click **View all Students** to see all records.
 
+## Architectural Diagram :
+- Serverless Web App Architecture Diagram.png
+
 ## License
 
 MIT License
