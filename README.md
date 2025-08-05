@@ -49,7 +49,7 @@ This project demonstrates a **fully serverless web application** built using key
 ---
 
 ## 📂 Project Structure
-
+```
 📁 serverless-web-app/
 ├── 📁 frontend/
 │ ├── index.html
@@ -59,7 +59,7 @@ This project demonstrates a **fully serverless web application** built using key
 │ ├── getDataFunction.js
 │ └── insertDataFunction.js
 ├── README.md
-
+```
 ---
 
 ## 🌐 How to Deploy
